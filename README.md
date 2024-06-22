@@ -29,10 +29,3 @@ The project is organized into the following sections:
   - **Visualization:** pyLDAvis
   - **Development:** Jupyter Notebook, Git
 
-## Getting Started
-To get started with the project, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/topic-modeling-lda.git
-cd topic-modeling-lda
-pip install -r requirements.txt
